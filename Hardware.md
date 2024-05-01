@@ -1,6 +1,6 @@
 # Hardware for Computational Station
 
-Below we report the hardware purchased to build the computational station
+Below we summarize the hardware purchased to build the computational station
 
 - 2x [Raspberry Pi5](https://www.raspberrypi.com/products/raspberry-pi-5). These can be purchased directly online and also [from educational resellers](https://www.raspberrypi.com/products/raspberry-pi-5/?resellerType=education) 
 - 2x Power adapters purchased on [www.adafruit.com](https://www.adafruit.com/product/5814?gad_source=1&gclid=Cj0KCQjw0MexBhD3ARIsAEI3WHJ6MNO-UYvkCAlOYiHsRrDxf1oEhKFXbaAJ87b5Men_MRJ49YXIDfMaAifCEALw_wcB)
