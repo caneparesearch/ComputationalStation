@@ -1,4 +1,4 @@
-#Hardware for Computational Station
+##Hardware for Computational Station
 
 Below we report the hardware purchased to build the computational station
 
